@@ -1,0 +1,7 @@
+.main-conatiner{
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+    background-color: #34495e;
+    padding: 0 2%;
+}
