@@ -7,17 +7,18 @@
 .box{
     width: 200px;
     height: 80px;
-    border: 1px solid white;
+    border: 2px solid #9ec9e2;
     font-size: 1.4em;
     padding: 0 2%;
     border-radius: 35px;
 }
 .box:hover{
-    border: 1px solid yellow;
+    border: 1px solid #fbc7c3;
 }
 .link{
     text-decoration: none;
-    color: aliceblue;
+    font-weight: bold;
+    color: #9ec9e2;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,5 +26,5 @@
     text-align: center;
 }
 .link:hover{
-    color: yellow;
+    color: #fbc7c3;
 }
