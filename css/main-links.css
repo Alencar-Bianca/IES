@@ -27,4 +27,14 @@
 }
 .link:hover{
     color: #fbc7c3;
+
+}
+@media  screen and (max-width: 500px){
+    .main-links{
+        display: block;
+        
+    }
+    .box{
+        margin-bottom: 15px;
+    }
 }
