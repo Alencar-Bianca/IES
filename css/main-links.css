@@ -1,0 +1,10 @@
+.main-links{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+.link{
+    text-decoration: none;
+    color: aliceblue;
+   
+}
