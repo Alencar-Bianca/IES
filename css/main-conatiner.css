@@ -9,4 +9,5 @@
     margin: auto;
     background-color: #34495e;
     padding: 0 2%;
+    box-sizing: border-box;
 }
