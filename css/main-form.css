@@ -14,7 +14,16 @@
 }
 .label{
     font-size: 1.4em;
-    color: #a9e2f5;
+    color: #7fd5f1;
     font-weight: bold;
   
+}
+@media  screen and (max-width: 320px){
+    .input{
+        display: block;
+        padding: 5px 20px;
+        border-radius: 10px;
+        height: 40px;
+        width: 80%;
+    }
 }
