@@ -18,6 +18,9 @@
     font-weight: bold;
   
 }
+.link.main-bnt{
+    font-size: 1.3em;
+}
 @media  screen and (max-width: 320px){
     .input{
         display: block;
