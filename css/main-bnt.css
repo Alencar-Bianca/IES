@@ -1,0 +1,14 @@
+.main-bnt{
+    margin-top: 15px;
+    padding: 15px 25px;
+    display: block;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.main-bnt .link{
+    display: block;
+    width: 100%;
+    font-size: 1.4em;
+    
+
+}
