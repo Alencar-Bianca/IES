@@ -1,0 +1,20 @@
+.main-form{
+    display: block;
+    margin-top: 20PX;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 500px;
+}
+.input{
+    display: block;
+    padding: 5px 20px;
+    border-radius: 10px;
+    height: 40px;
+    width: 90%;
+}
+.label{
+    font-size: 1.4em;
+    color: #a9e2f5;
+    font-weight: bold;
+  
+}

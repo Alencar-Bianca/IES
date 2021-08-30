@@ -3,9 +3,16 @@
     font-weight: bold;
     color: #e086a6;
 }
-@media  screen and (max-width: 330px){
+@media  screen and (max-width: 490px){
     .main-title{
-        font-size: 2em;
+        font-size: 2.2em;
+        font-weight: bold;
+        color: #e086a6;
+    }
+}
+@media  screen and (max-width: 360px){
+    .main-title{
+        font-size: 1.8em;
         font-weight: bold;
         color: #e086a6;
     }
