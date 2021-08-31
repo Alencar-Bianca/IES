@@ -24,10 +24,21 @@
     align-items: center;
     height: 100%;
     text-align: center;
+    
+}
+.box .link{
+    margin-top: -30px;
 }
 .link:hover{
     color: #fbc7c3;
 
+}
+.main-links i{
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    color: #6752bd22;
+    font-size: 1.4em;
 }
 @media  screen and (max-width: 500px){
     .main-links{
