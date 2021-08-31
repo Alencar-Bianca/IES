@@ -1,13 +1,19 @@
 .main-bnt{
-    margin-top: 15px;
-    padding: 5px 25px;
-    border-radius: 10px;
     cursor: pointer;
+    margin-top: 15px;
+    border-radius: 8px;
+
+}
+.link.main-bnt:last-child{
+    padding: 0px 15px;
+   
 }
 .main-bnt .link{
     font-size: 1.4em;
+    background-color: #fff7ec;
 }
 .link.main-bnt{
     font-size: 1.3em;
     padding: 0px 15px;
+  
 }
