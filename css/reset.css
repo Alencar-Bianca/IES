@@ -9,7 +9,10 @@
     font-family: 'Hina Mincho', serif;
 }
 body{
-    background-color:  #38b3d0 ;
+    height: 100vh;
+    background: linear-gradient(45deg,#38b3d0, #084177, #9ec9e2, #a9e2f5);
+    background-size: 300% 300%;
+    animation: colors 15s ease infinite;
     color: #000;
 }
 body,html{
