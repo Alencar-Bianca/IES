@@ -30,7 +30,7 @@
 .box .link{
     margin-top: -30px;
 }
-.link:hover{
+.link:hover,span:hover{
     color: #fbc7c3;
 
 }

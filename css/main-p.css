@@ -1,0 +1,9 @@
+.main-p{
+    font-size: 2em;
+}
+p:nth-of-type(1){
+    font-size: 1.8em;
+}
+span{
+    color: #35a5be;
+}
