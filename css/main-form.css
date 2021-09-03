@@ -15,8 +15,33 @@
 .label{
     font-size: 1.4em;
     color: #7fd5f1;
-    font-weight: bold;
+    font-weight: bold;  
   
+}
+.w{
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.div{
+    margin-top: 40px;
+}
+.div p{
+    text-align: center;
+    font-size: 1.8em;
+}
+.span{
+    display: flex;
+    justify-content: space-around;
+}
+.div span{
+    font-size: 1.6em;
+    font-weight: bold;
+    color: #e086a6; 
+}
+.div .mat{
+    margin-left: 45px;
 }
 
 @media  screen and (max-width: 320px){
