@@ -40,6 +40,9 @@
     font-weight: bold;
     color: #e086a6; 
 }
+.div .input{
+    margin-right: 25px;
+}
 .div .mat{
     margin-left: 45px;
 }
